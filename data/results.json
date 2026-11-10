@@ -1,4 +1,31 @@
 {
  "about": "RimRunnerLouisiana 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "4fe49ca9-3dde-4677-8794-0df1b8b8fce6": {
+   "awayMp": "46eb0e62-95fc-44ca-a063-f3b37d252a64",
+   "awayScore": 17,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "la26-0005",
+   "homeMp": "512477c6-d1f8-42e7-bb5d-d64d9aa34611",
+   "homeScore": 69,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "5288f121-8fb6-44f4-9fae-dba62250917d": {
+   "awayMp": "006a5c99-b79a-4902-a07f-e5e782d6f203",
+   "awayScore": 51,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "la26-0001",
+   "homeMp": "7cb9396e-0c9e-44a4-be34-4e4a1dc4805a",
+   "homeScore": 47,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  }
+ }
 }
