@@ -53,6 +53,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "40e273d1-3f1c-41fe-8cec-742a5a361731": {
+   "awayMp": "dc878784-c7c5-435b-8a40-1e8f030eb85a",
+   "awayScore": 31,
+   "date": "2026-11-10",
+   "forfeit": false,
+   "gameId": "la26-0010",
+   "homeMp": "89330c66-4c7f-4530-a790-6587e536798f",
+   "homeScore": 52,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "4fe49ca9-3dde-4677-8794-0df1b8b8fce6": {
    "awayMp": "46eb0e62-95fc-44ca-a063-f3b37d252a64",
    "awayScore": 17,
