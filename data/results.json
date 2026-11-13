@@ -92,6 +92,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "663d831f-e0bc-4a25-94b2-456b2531cc6a": {
+   "awayMp": "e65bcae1-2416-4480-b75b-25aa3e5b090c",
+   "awayScore": 43,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "la26-0032",
+   "homeMp": "89330c66-4c7f-4530-a790-6587e536798f",
+   "homeScore": 52,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "6d3c57f1-d1dd-44f2-9f5e-216810afcf25": {
    "awayMp": "d16a5cdb-8408-4cd7-9960-c2d834fdde09",
    "awayScore": 79,
@@ -143,6 +156,21 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "b53422a1-4fd7-413e-a90a-24a45c7e8357": {
+   "awayMp": "099d9ec2-289d-4afe-8836-122ffcd2a7a1",
+   "awayScore": 46,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "la26-x001",
+   "gameType": "tournament",
+   "homeMp": "270141c2-e42a-4546-aa64-ffcef5a8f71c",
+   "homeScore": 50,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
   },
   "b9cf1f74-7f3b-437d-a93d-f029d15f4f80": {
    "awayMp": "270141c2-e42a-4546-aa64-ffcef5a8f71c",
@@ -207,6 +235,34 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "home"
+  },
+  "debfb5ba-a04d-4de9-9cb7-dabcb295499b": {
+   "awayMp": "d8eb2d20-88ec-48ef-a1f9-719f10fe8b30",
+   "awayScore": 36,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "la26-0249",
+   "homeMp": "d3264b0b-c6ab-47c0-a19b-274b935685f9",
+   "homeScore": 61,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "f50ed607-7f5f-4493-a43c-a1a8e541b180": {
+   "awayMp": "006a5c99-b79a-4902-a07f-e5e782d6f203",
+   "awayScore": 50,
+   "date": "2026-11-12",
+   "forfeit": false,
+   "gameId": "la26-x002",
+   "gameType": "tournament",
+   "homeMp": "1da3eb7c-bc29-4634-a5b1-308e92e37792",
+   "homeScore": 69,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "home"
   },
   "f52d265c-d704-4f9d-b5b1-85323f98313e": {
