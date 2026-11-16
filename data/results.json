@@ -397,6 +397,21 @@
    "verified": true,
    "winner": "home"
   },
+  "7c3d20df-f003-4c53-b02b-2a9fe74401b6": {
+   "awayMp": "c81f0f96-ac77-4fc6-be35-072b7204e34f",
+   "awayScore": 61,
+   "date": "2026-11-14",
+   "forfeit": false,
+   "gameId": "la26-x028",
+   "gameType": "non-conference",
+   "homeMp": "76d92575-2d25-44ea-bb44-23ba67bf56a0",
+   "homeScore": 21,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "7e0a7995-e2e5-4ac5-9dea-6c3280b55dc4": {
    "awayMp": "bd52700d-8095-4461-8ae7-e680e65daa13",
    "awayScore": 75,
